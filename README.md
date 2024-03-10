@@ -35,11 +35,3 @@ To replicate our experiments or use our code, please refer to the documentation 
 ## Citation
 
 If you find our work useful in your research, please consider citing our paper (if available) or this repository. You can find citation details in the respective research paper or in the repository's `CITATION.md` file.
-
-## Contributors
-
-From:  
-Aishwarya Bodkhe,Avishek Pathania,Prajna Shetty,Sanchita Singh,Ritik Gupta
-
-
-## License
